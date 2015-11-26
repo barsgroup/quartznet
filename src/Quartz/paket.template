@@ -1,0 +1,6 @@
+type project
+id Quartz
+version 2.1.2
+authors Marko Lahma
+description
+    Quartz.NET Scheduling Framework for .NET Platform
